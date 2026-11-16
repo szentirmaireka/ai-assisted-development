@@ -1,7 +1,5 @@
 # AI-assisted development: how I work
 
-![Réka Szentirmai](photo.jpg)
-
 I build business software and websites with AI coding tools, as an independent contractor based in Budapest.
 
 ## What I build
